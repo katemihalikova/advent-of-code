@@ -6,3 +6,4 @@
 * 03.12. - [instructions](http://adventofcode.com/2016/day/3) + [solution](./03.js)
 * 04.12. - [instructions](http://adventofcode.com/2016/day/4) + [solution](./04.js)
 * 05.12. - [instructions](http://adventofcode.com/2016/day/5) + [solution](./05.php)
+* 06.12. - [instructions](http://adventofcode.com/2016/day/6) + [solution](./06.js)
