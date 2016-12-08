@@ -8,3 +8,4 @@
 * 05.12. - [instructions](http://adventofcode.com/2016/day/5) + [solution](./05.php) (rank 147/79, score 22)
 * 06.12. - [instructions](http://adventofcode.com/2016/day/6) + [solution](./06.js) (rank 264/261)
 * 07.12. - [instructions](http://adventofcode.com/2016/day/7) + [solution](./07.js) (rank 20/295, score 81)
+* 08.12. - [instructions](http://adventofcode.com/2016/day/8) + [solution](./08.js) (rank 130/109)
