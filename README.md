@@ -12,3 +12,4 @@
 * 14.12. - [instructions](http://adventofcode.com/2016/day/14) + [solution](./14.php) (rank 2544/2407)
 * 15.12. - [instructions](http://adventofcode.com/2016/day/15) + [solution](./15.js) (rank 2404/2385)
 * 18.12. - [instructions](http://adventofcode.com/2016/day/18) + [solution](./18.js) (rank 2030/2005)
+* 22.12. - [instructions](http://adventofcode.com/2016/day/22) + [solution](./22.js) (rank 887/370)
