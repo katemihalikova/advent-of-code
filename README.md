@@ -14,3 +14,6 @@
 * 18.12. - [instructions](http://adventofcode.com/2016/day/18) + [solution](./18.js) (rank 2030/2005)
 * 21.12. - [instructions](http://adventofcode.com/2016/day/21) + [solution](./21.js) (rank 1694/1513)
 * 22.12. - [instructions](http://adventofcode.com/2016/day/22) + [solution](./22.js) (rank 887/370)
+* 24.12. - [instructions](http://adventofcode.com/2016/day/24) + [solution](./24.js) (rank 1693/1680)
+
+Total score: 103
