@@ -9,6 +9,7 @@
 * 06.12. - [instructions](http://adventofcode.com/2016/day/6) + [solution](./06.js) (rank 264/261)
 * 07.12. - [instructions](http://adventofcode.com/2016/day/7) + [solution](./07.js) (rank 20/295, score 81)
 * 08.12. - [instructions](http://adventofcode.com/2016/day/8) + [solution](./08.js) (rank 130/109)
+* 10.12. - [instructions](http://adventofcode.com/2016/day/10) + [solution](./10.js) (rank 4900/4792)
 * 14.12. - [instructions](http://adventofcode.com/2016/day/14) + [solution](./14.php) (rank 2544/2407)
 * 15.12. - [instructions](http://adventofcode.com/2016/day/15) + [solution](./15.js) (rank 2404/2385)
 * 16.12. - [instructions](http://adventofcode.com/2016/day/16) + [solution](./16.js) (rank 3414/3294)
