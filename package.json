@@ -1,0 +1,10 @@
+{
+  "name": "advent-of-code-2017",
+  "version": "1.0.0",
+  "description": "Solutions of Advent of Code 2017 puzzles",
+  "dependencies": {
+  },
+  "repository": "github:katemihalikova/advent-of-code-2017",
+  "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT"
+}
