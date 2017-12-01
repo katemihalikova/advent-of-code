@@ -3,7 +3,7 @@
 
 Jump to: [2016](https://github.com/katemihalikova/advent-of-code/tree/2016)
 
-* 01.12. - [instructions](http://adventofcode.com/2017/day/1) + [solution](./01.js) (rank 114/210)
+* 01.12. - [instructions](http://adventofcode.com/2017/day/1) + solutions [Javascript](./01.js), [F#](./01.fsx) (rank 114/210)
 * 02.12. - [instructions](http://adventofcode.com/2017/day/2) (incomplete)
 * 03.12. - [instructions](http://adventofcode.com/2017/day/3) (incomplete)
 * 04.12. - [instructions](http://adventofcode.com/2017/day/4) (incomplete)
