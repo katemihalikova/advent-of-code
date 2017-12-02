@@ -4,7 +4,7 @@
 Jump to: [2016](https://github.com/katemihalikova/advent-of-code/tree/2016)
 
 * 01.12. - [instructions](http://adventofcode.com/2017/day/1) + solutions [Javascript](./01.js), [F#](./01.fsx) (rank 114/210)
-* 02.12. - [instructions](http://adventofcode.com/2017/day/2) (incomplete)
+* 02.12. - [instructions](http://adventofcode.com/2017/day/2) + solutions [Javascript](./02.js), [F#](./02.fsx) (rank 71/74, score 57)
 * 03.12. - [instructions](http://adventofcode.com/2017/day/3) (incomplete)
 * 04.12. - [instructions](http://adventofcode.com/2017/day/4) (incomplete)
 * 05.12. - [instructions](http://adventofcode.com/2017/day/5) (incomplete)
@@ -29,4 +29,4 @@ Jump to: [2016](https://github.com/katemihalikova/advent-of-code/tree/2016)
 * 24.12. - [instructions](http://adventofcode.com/2017/day/24) (incomplete)
 * 25.12. - [instructions](http://adventofcode.com/2017/day/25) (incomplete)
 
-Total score: 0
+Total score: 57
