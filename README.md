@@ -19,7 +19,7 @@ Jump to: [2015](https://github.com/katemihalikova/advent-of-code/tree/2015), [20
 * 14.12. - [instructions](http://adventofcode.com/2017/day/14) + solution [Javascript](./14.js) (rank 370/435)
 * 15.12. - [instructions](http://adventofcode.com/2017/day/15) + solution [Javascript](./15.js) (rank 214/139)
 * 16.12. - [instructions](http://adventofcode.com/2017/day/16) + solution [Javascript](./16.js) (rank 206/32, score 69)
-* 17.12. - [instructions](http://adventofcode.com/2017/day/17) (incomplete)
+* 17.12. - [instructions](http://adventofcode.com/2017/day/17) + solution [Javascript](./17.js) (rank 278/79, score 22)
 * 18.12. - [instructions](http://adventofcode.com/2017/day/18) (incomplete)
 * 19.12. - [instructions](http://adventofcode.com/2017/day/19) (incomplete)
 * 20.12. - [instructions](http://adventofcode.com/2017/day/20) (incomplete)
@@ -29,4 +29,4 @@ Jump to: [2015](https://github.com/katemihalikova/advent-of-code/tree/2015), [20
 * 24.12. - [instructions](http://adventofcode.com/2017/day/24) (incomplete)
 * 25.12. - [instructions](http://adventofcode.com/2017/day/25) (incomplete)
 
-Total score: 418
+Total score: 440
