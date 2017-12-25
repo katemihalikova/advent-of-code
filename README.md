@@ -22,7 +22,7 @@ Jump to: [2015](https://github.com/katemihalikova/advent-of-code/tree/2015), [20
 * 17.12. - [instructions](http://adventofcode.com/2016/day/17) + [solution](./17.js) (rank 2821/2735)
 * 18.12. - [instructions](http://adventofcode.com/2016/day/18) + [solution](./18.js) (rank 2030/2005)
 * 19.12. - [instructions](http://adventofcode.com/2016/day/19) (rank 1786/1139)
-* 20.12. - [instructions](http://adventofcode.com/2016/day/20) (incomplete)
+* 20.12. - [instructions](http://adventofcode.com/2016/day/20) + [solution](./20.js) (rank 3219/3046)
 * 21.12. - [instructions](http://adventofcode.com/2016/day/21) + [solution](./21.js) (rank 1694/1513)
 * 22.12. - [instructions](http://adventofcode.com/2016/day/22) + [solution](./22.js) (rank 887/370)
 * 23.12. - [instructions](http://adventofcode.com/2016/day/23) (incomplete)
