@@ -14,7 +14,7 @@ function part1(input) {
     if (nextComponents.length > 0) {
       nextComponents.forEach(([nextComponent, nextComponentIndex]) => {
 
-        let currentlyUsedComponent = nextComponent;
+        let currentlyUsedComponent = [...nextComponent];
         if (nextComponent[0] !== nextPort) currentlyUsedComponent.reverse();
 
         let newRemainingComponents = [...remainingComponents];
@@ -49,7 +49,7 @@ function part2(input) {
     if (nextComponents.length > 0) {
       nextComponents.forEach(([nextComponent, nextComponentIndex]) => {
 
-        let currentlyUsedComponent = nextComponent;
+        let currentlyUsedComponent = [...nextComponent];
         if (nextComponent[0] !== nextPort) currentlyUsedComponent.reverse();
 
         let newRemainingComponents = [...remainingComponents];
