@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2016",
+  "version": "1.0.0",
+  "description": "Solutions of Advent of Code 2016 puzzles",
+  "dependencies": {
+    "permute": "^1.0.0"
+  },
+  "repository": "github:katemihalikova/advent-of-code-2016",
+  "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT"
+}
