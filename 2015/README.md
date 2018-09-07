@@ -1,7 +1,7 @@
 # *Advent of Code* 2015
 > Solutions of [*Advent of Code* 2015](http://adventofcode.com/2015/) puzzles
 
-Jump to: [2016](https://github.com/katemihalikova/advent-of-code/tree/2016), [2017](https://github.com/katemihalikova/advent-of-code/tree/2017)
+Jump to: [2016](../2016), [2017](../2017), [2018](../2018)
 
 * 01.12. - [instructions](http://adventofcode.com/2015/day/1) (solved)
 * 02.12. - [instructions](http://adventofcode.com/2015/day/2) (solved)
