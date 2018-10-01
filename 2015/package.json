@@ -1,7 +1,7 @@
 {
-  "name": "advent-of-code-2016",
+  "name": "advent-of-code-2015",
   "private": true,
-  "description": "Solutions of Advent of Code 2016 puzzles",
+  "description": "Solutions of Advent of Code 2015 puzzles",
   "dependencies": {
     "permute": "^1.0.0"
   },
