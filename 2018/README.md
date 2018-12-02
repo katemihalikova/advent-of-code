@@ -4,7 +4,7 @@
 Jump to: [2015](../2015), [2016](../2016), [2017](../2017)
 
 * 01.12. - [instructions](http://adventofcode.com/2018/day/1) + solution [Javascript](./01.js) (rank 331/271)
-* 02.12. - [instructions](http://adventofcode.com/2018/day/2)
+* 02.12. - [instructions](http://adventofcode.com/2018/day/2) + solution [Javascript](./02.js) (rank 270/334)
 * 03.12. - [instructions](http://adventofcode.com/2018/day/3)
 * 04.12. - [instructions](http://adventofcode.com/2018/day/4)
 * 05.12. - [instructions](http://adventofcode.com/2018/day/5)
