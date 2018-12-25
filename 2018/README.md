@@ -27,7 +27,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017)
 * 22.12. - [instructions](http://adventofcode.com/2018/day/22) + solution [Javascript](./22.js) (rank 53/2104, score 48)
 * 23.12. - [instructions](http://adventofcode.com/2018/day/23) + solution [Javascript](./23.js) (rank 2034/1292)
 * 24.12. - [instructions](http://adventofcode.com/2018/day/24) + solution [Javascript](./24.js) (rank 129/122)
-* 25.12. - [instructions](http://adventofcode.com/2018/day/25)
+* 25.12. - [instructions](http://adventofcode.com/2018/day/25) + solution [Javascript](./25.js) (rank 78/63, score 61)
 
-Total score: 450  
-<!--Final place: ~110-115-->
+Total score: 511  
+Final place: ~140
