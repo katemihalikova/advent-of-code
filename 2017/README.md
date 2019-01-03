@@ -30,4 +30,4 @@ Jump to: [2015](../2015), [2016](../2016), [2018](../2018)
 * 25.12. - [instructions](http://adventofcode.com/2017/day/25) + solution [Javascript](./25.js) (rank 90/87, score 25)
 
 Total score: 606  
-Final place: ~110-115
+Final place: 115
