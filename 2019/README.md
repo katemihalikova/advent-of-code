@@ -9,7 +9,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018)
 * 04.12. - [instructions](http://adventofcode.com/2019/day/4) + solution [Javascript](./04.js) (rank 102/15, score 86)
 * 05.12. - [instructions](http://adventofcode.com/2019/day/5) + solution [Javascript](./05.js) (rank 128/182)
 * 06.12. - [instructions](http://adventofcode.com/2019/day/6) + solution [Javascript](./06.js) (rank 114/137)
-* 07.12. - [instructions](http://adventofcode.com/2019/day/7)
+* 07.12. - [instructions](http://adventofcode.com/2019/day/7) + solution [Javascript](./07.js) (rank 49/200, score 52)
 * 08.12. - [instructions](http://adventofcode.com/2019/day/8)
 * 09.12. - [instructions](http://adventofcode.com/2019/day/9)
 * 10.12. - [instructions](http://adventofcode.com/2019/day/10)
@@ -29,5 +29,5 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018)
 * 24.12. - [instructions](http://adventofcode.com/2019/day/24)
 * 25.12. - [instructions](http://adventofcode.com/2019/day/25)
 
-Total score: 252  
-Current place: 80
+Total score: 304  
+Current place: 74
