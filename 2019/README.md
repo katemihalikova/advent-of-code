@@ -30,4 +30,4 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018)
 * 25.12. - [instructions](http://adventofcode.com/2019/day/25)
 
 Total score: 488  
-Current place: 106
+Current place: 117
