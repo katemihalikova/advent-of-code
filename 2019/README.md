@@ -29,5 +29,5 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018)
 * 24.12. - [instructions](http://adventofcode.com/2019/day/24) + solution [Javascript](./24.js) (rank 164/161)
 * 25.12. - [instructions](http://adventofcode.com/2019/day/25)
 
-Total score: 552  
+Total score: 715  
 Current place: 103
