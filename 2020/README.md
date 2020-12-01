@@ -3,7 +3,7 @@
 
 Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [2019](../2019)
 
-* 01.12. - [instructions](http://adventofcode.com/2020/day/1)
+* 01.12. - [instructions](http://adventofcode.com/2020/day/1) + solution [Javascript](./01.js) (rank 574/128 [❌](https://www.reddit.com/r/adventofcode/comments/k4ejjz/2020_day_1_unlock_crash_postmortem/))
 * 02.12. - [instructions](http://adventofcode.com/2020/day/2)
 * 03.12. - [instructions](http://adventofcode.com/2020/day/3)
 * 04.12. - [instructions](http://adventofcode.com/2020/day/4)
