@@ -1,7 +1,7 @@
 # *Advent of Code* 2019
 > Solutions of [*Advent of Code* 2019](http://adventofcode.com/2019/) puzzles
 
-Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018)
+Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [2020](../2020)
 
 * 01.12. - [instructions](http://adventofcode.com/2019/day/1) + solution [Javascript](./01.js) (rank 172/143)
 * 02.12. - [instructions](http://adventofcode.com/2019/day/2) + solution [Javascript](./02.js) (rank 43/53, score 106)
