@@ -24,7 +24,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 19.12. - [instructions](http://adventofcode.com/2020/day/19) + solution [Javascript](./19.js) (rank 344/437)
 * 20.12. - [instructions](http://adventofcode.com/2020/day/20) + solution [Javascript](./20.js) (rank 92/200, score 9)
 * 21.12. - [instructions](http://adventofcode.com/2020/day/21) + solution [Javascript](./21.js) (rank 3085/2873)
-* 22.12. - [instructions](http://adventofcode.com/2020/day/22)
+* 22.12. - [instructions](http://adventofcode.com/2020/day/22) + solution [Javascript](./22.js) (rank 732/148)
 * 23.12. - [instructions](http://adventofcode.com/2020/day/23)
 * 24.12. - [instructions](http://adventofcode.com/2020/day/24)
 * 25.12. - [instructions](http://adventofcode.com/2020/day/25)
