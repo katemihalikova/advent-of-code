@@ -1,14 +1,14 @@
 # *Advent of Code* 2018
 > Solutions of [*Advent of Code* 2018](http://adventofcode.com/2018/) puzzles
 
-Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2019](../2019), [2020](../2020)
+Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2019](../2019), [2020](../2020), [2021](../2021)
 
 * 01.12. - [instructions](http://adventofcode.com/2018/day/1) + solutions [Javascript](./01.js), [Ruby](./01.rb) (rank 331/271)
 * 02.12. - [instructions](http://adventofcode.com/2018/day/2) + solution [Javascript](./02.js) (rank 270/334)
 * 03.12. - [instructions](http://adventofcode.com/2018/day/3) + solution [Javascript](./03.js) (rank 263/203)
 * 04.12. - [instructions](http://adventofcode.com/2018/day/4) + solution [Javascript](./04.js) (rank 757/721)
 * 05.12. - [instructions](http://adventofcode.com/2018/day/5) + solution [Javascript](./05.js) (rank 229/324)
-* 06.12. - [instructions](http://adventofcode.com/2018/day/6) + solution [Javascript](./06.js) (rank 140/110)
+* 06.12. - [instructions](http://adventofcode.com/2018/day/6) + solution [Javascript](./06.js) (rank 140/110 [❌](https://www.reddit.com/r/adventofcode/comments/a3kr4r/2018_day_6_solutions/eb76843/))
 * 07.12. - [instructions](http://adventofcode.com/2018/day/7) + solution [Javascript](./07.js) (rank 576/398)
 * 08.12. - [instructions](http://adventofcode.com/2018/day/8) + solution [Javascript](./08.js) (rank 763/508)
 * 09.12. - [instructions](http://adventofcode.com/2018/day/9) + solution [Javascript](./09.js) (rank 359/1070)
