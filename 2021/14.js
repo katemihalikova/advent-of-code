@@ -21,12 +21,13 @@ function part1(input, steps = 10) {
   for (let step = 1; step <= steps; step++) {
     let nextPolymer = "";
 
-    for (let i = 0; i < polymer.length; i++) {
+    for (let i = 0; i < polymer.length - 1; i++) {
       let a = polymer[i], b = polymer[i + 1];
       nextPolymer += a;
-      if (rules[a + b]) nextPolymer += rules[a + b];
+      nextPolymer += rules[a + b];
     }
 
+    nextPolymer += polymer.at(-1);
     polymer = nextPolymer;
   }
 
@@ -61,13 +62,8 @@ function part2(input, steps = 40) {
 
     for (let [pair, count] of Object.entries(pairsCounter)) {
       let newElement = rules[pair];
-
-      if (newElement) {
-        incrementKey(nextPairsCounter, pair[0] + newElement, count);
-        incrementKey(nextPairsCounter, newElement + pair[1], count);
-      } else {
-        incrementKey(nextPairsCounter, pair, count);
-      }
+      incrementKey(nextPairsCounter, pair[0] + newElement, count);
+      incrementKey(nextPairsCounter, newElement + pair[1], count);
     }
 
     pairsCounter = nextPairsCounter;
@@ -75,16 +71,12 @@ function part2(input, steps = 40) {
 
   let elementsCounter = Object.entries(pairsCounter).reduce((acc, [pair, count]) => {
     incrementKey(acc, pair[0], count);
-    incrementKey(acc, pair[1], count);
     return acc;
-  }, {});
-
-  incrementKey(elementsCounter, polymer[0]);
-  incrementKey(elementsCounter, polymer[polymer.length - 1]);
+  }, {[polymer.at(-1)]: 1});
 
   let elementCounts = Object.values(elementsCounter);
 
-  return (Math.max(...elementCounts) - Math.min(...elementCounts)) / 2;
+  return Math.max(...elementCounts) - Math.min(...elementCounts);
 }
 
 // == ASSERTS ==
