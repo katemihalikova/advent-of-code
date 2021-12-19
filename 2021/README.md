@@ -21,7 +21,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 16.12. - [instructions](http://adventofcode.com/2021/day/16) + solution [JavaScript](./16.js)
 * 17.12. - [instructions](http://adventofcode.com/2021/day/17) + solution [JavaScript](./17.js) (rank 733/369)
 * 18.12. - [instructions](http://adventofcode.com/2021/day/18) + solution [JavaScript](./18.js) (rank 871/799) or [JavaScript using naive string manipulation](./18s.js)
-* 19.12. - [instructions](http://adventofcode.com/2021/day/19)
+* 19.12. - [instructions](http://adventofcode.com/2021/day/19) + solution [JavaScript](./19.js)
 * 20.12. - [instructions](http://adventofcode.com/2021/day/20)
 * 21.12. - [instructions](http://adventofcode.com/2021/day/21)
 * 22.12. - [instructions](http://adventofcode.com/2021/day/22)
