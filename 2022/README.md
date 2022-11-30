@@ -3,7 +3,7 @@
 
 Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [2019](../2019), [2020](../2020), [2021](../2021)
 
-* 01.12. - [instructions](http://adventofcode.com/2022/day/1)
+* 01.12. - [instructions](http://adventofcode.com/2022/day/1) + solution [JavaScript](./01.js)
 * 02.12. - [instructions](http://adventofcode.com/2022/day/2)
 * 03.12. - [instructions](http://adventofcode.com/2022/day/3)
 * 04.12. - [instructions](http://adventofcode.com/2022/day/4)
