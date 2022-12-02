@@ -5,7 +5,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 
 * 01.12. - [instructions](http://adventofcode.com/2022/day/1) + solution [JavaScript](./01.js)
 * 02.12. - [instructions](http://adventofcode.com/2022/day/2) + solution [JavaScript](./02.js) or [JavaScript using indexes](./02i.js) or [JavaScript using codepoints](./02c.js)
-* 03.12. - [instructions](http://adventofcode.com/2022/day/3)
+* 03.12. - [instructions](http://adventofcode.com/2022/day/3) + solution [JavaScript](./03.js)
 * 04.12. - [instructions](http://adventofcode.com/2022/day/4)
 * 05.12. - [instructions](http://adventofcode.com/2022/day/5)
 * 06.12. - [instructions](http://adventofcode.com/2022/day/6)
