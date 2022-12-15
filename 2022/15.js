@@ -33,25 +33,24 @@ function part2(input, maxCoord = 4000000) {
     return {sensorX, sensorY, beaconX, beaconY};
   });
 
-  let rows = new Map();
-
-  for (let {sensorX, sensorY, beaconX, beaconY} of input) {
-    let dist = Math.abs(sensorX - beaconX) + Math.abs(sensorY - beaconY);
-    let minY = Math.max(sensorY - dist, 0);
-    let maxY = Math.min(sensorY + dist, maxCoord);
-
-    for (let y = minY; y <= maxY; y++) {
-      let yDiff = Math.abs(sensorY - y);
-      let minX = Math.max(sensorX - dist + yDiff, 0);
-      let maxX = Math.min(sensorX + dist - yDiff, maxCoord);
-
-      if (!rows.has(y)) rows.set(y, []);
-      rows.get(y).push([minX, maxX]);
-    }
-  }
-
   try {
-    for (let [y, xRanges] of rows) {
+    for (let y = 0; y <= maxCoord; y++) {
+      let xRanges = [];
+    
+      for (let {sensorX, sensorY, beaconX, beaconY} of input) {
+        let dist = Math.abs(sensorX - beaconX) + Math.abs(sensorY - beaconY);
+
+        let minY = sensorY - dist;
+        let maxY = sensorY + dist;
+        if (y < minY || y > maxY) continue;
+
+        let yDiff = Math.abs(sensorY - y);
+        let minX = Math.max(0, sensorX - dist + yDiff);
+        let maxX = Math.min(maxCoord, sensorX + dist - yDiff);
+    
+        xRanges.push([minX, maxX]);
+      }
+    
       xRanges
         .sort(([startX1, endX1], [startX2, endX2]) => startX1 - startX2 || endX1 - endX2)
         .reduce(([startX1, endX1], [startX2, endX2]) => {
