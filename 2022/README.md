@@ -1,7 +1,7 @@
 # *Advent of Code* 2022
 > Solutions of [*Advent of Code* 2022](http://adventofcode.com/2022/) puzzles
 
-Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [2019](../2019), [2020](../2020), [2021](../2021)
+Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [2019](../2019), [2020](../2020), [2021](../2021), [2023](../2023)
 
 * 01.12. - [instructions](http://adventofcode.com/2022/day/1) + solution [JavaScript](./01.js)
 * 02.12. - [instructions](http://adventofcode.com/2022/day/2) + solution [JavaScript](./02.js) or [JavaScript using indexes](./02i.js) or [JavaScript using codepoints](./02c.js)
