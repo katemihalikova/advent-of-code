@@ -9,7 +9,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 04.12. - [instructions](http://adventofcode.com/2023/day/4) + solution [JavaScript](./04.js) (rank 1440/323)
 * 05.12. - [instructions](http://adventofcode.com/2023/day/5) + solution [JavaScript](./05.js) (rank 529/1065)
 * 06.12. - [instructions](http://adventofcode.com/2023/day/6) + solution [JavaScript](./06.js)
-* 07.12. - [instructions](http://adventofcode.com/2023/day/7)
+* 07.12. - [instructions](http://adventofcode.com/2023/day/7) + solution [JavaScript](./07.js) (rank 1070/622)
 * 08.12. - [instructions](http://adventofcode.com/2023/day/8)
 * 09.12. - [instructions](http://adventofcode.com/2023/day/9)
 * 10.12. - [instructions](http://adventofcode.com/2023/day/10)
