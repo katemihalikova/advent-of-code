@@ -23,7 +23,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 18.12. - [instructions](http://adventofcode.com/2023/day/18) (solved)
 * 19.12. - [instructions](http://adventofcode.com/2023/day/19) + solution [JavaScript](./19.js)
 * 20.12. - [instructions](http://adventofcode.com/2023/day/20) + solution [JavaScript](./20.js)
-* 21.12. - [instructions](http://adventofcode.com/2023/day/21)
+* 21.12. - [instructions](http://adventofcode.com/2023/day/21) + solution [JavaScript](./21.js)
 * 22.12. - [instructions](http://adventofcode.com/2023/day/22)
 * 23.12. - [instructions](http://adventofcode.com/2023/day/23)
 * 24.12. - [instructions](http://adventofcode.com/2023/day/24)
