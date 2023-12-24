@@ -1,0 +1,9 @@
+{
+  "name": "2023",
+  "private": true,
+  "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT",
+  "dependencies": {
+    "z3-solver": "^4.12.4"
+  }
+}
