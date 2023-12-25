@@ -4,6 +4,8 @@
   "author": "Kate Miháliková <kate@katemihalikova.cz>",
   "license": "MIT",
   "dependencies": {
+    "@graph-algorithm/minimum-cut": "^2.0.0",
+    "regenerator-runtime": "^0.14.1",
     "z3-solver": "^4.12.4"
   }
 }

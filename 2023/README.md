@@ -27,4 +27,4 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 22.12. - [instructions](http://adventofcode.com/2023/day/22) (solved)
 * 23.12. - [instructions](http://adventofcode.com/2023/day/23) + solution [JavaScript](./23.js)
 * 24.12. - [instructions](http://adventofcode.com/2023/day/24) + solution [JavaScript](./24.mjs) (rank 1337/1040)
-* 25.12. - [instructions](http://adventofcode.com/2023/day/25)
+* 25.12. - [instructions](http://adventofcode.com/2023/day/25) + solution [JavaScript](./25.js) (rank 852/742)
