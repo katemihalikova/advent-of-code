@@ -7,7 +7,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 02.12. - [instructions](http://adventofcode.com/2024/day/2) + solution [TypeScript](./02.ts) (rank 699/1749)
 * 03.12. - [instructions](http://adventofcode.com/2024/day/3) + solution [TypeScript](./03.ts) (rank 1614/518)
 * 04.12. - [instructions](http://adventofcode.com/2024/day/4) + solution [TypeScript](./04.ts) (rank 988/1852)
-* 05.12. - [instructions](http://adventofcode.com/2024/day/5)
+* 05.12. - [instructions](http://adventofcode.com/2024/day/5) + solution [TypeScript](./05.ts)
 * 06.12. - [instructions](http://adventofcode.com/2024/day/6)
 * 07.12. - [instructions](http://adventofcode.com/2024/day/7)
 * 08.12. - [instructions](http://adventofcode.com/2024/day/8)
