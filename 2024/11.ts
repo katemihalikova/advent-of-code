@@ -1,26 +1,26 @@
 // == PARTS 1 & 2 ==
 
-function bothParts(input: string, steps: number): number {
+function bothParts(input: string, blinks: number): number {
   let cache: Record<number, Record<number, number>> = {};
 
-  function calculateStoneCount(step: number, stone: number): number {
-    if (step === steps) return 1;
+  function calculateStoneCount(blink: number, stone: number): number {
+    if (blink === blinks) return 1;
 
-    let result = cache[step]?.[stone];
+    let result = cache[blink]?.[stone];
     if (result === undefined) {
       let stoneDigits = Math.floor(Math.log10(stone) + 1);
 
       if (stone === 0) {
-        result = calculateStoneCount(step + 1, 1);
+        result = calculateStoneCount(blink + 1, 1);
       } else if (stoneDigits % 2 === 0) {
         let divisor = 10 ** (stoneDigits / 2);
-        result = calculateStoneCount(step + 1, Math.floor(stone / divisor)) + calculateStoneCount(step + 1, stone % divisor);
+        result = calculateStoneCount(blink + 1, Math.floor(stone / divisor)) + calculateStoneCount(blink + 1, stone % divisor);
       } else {
-        result = calculateStoneCount(step + 1, stone * 2024);
+        result = calculateStoneCount(blink + 1, stone * 2024);
       }
 
-      cache[step] = cache[step] ?? {};
-      cache[step][stone] = result;
+      cache[blink] = cache[blink] ?? {};
+      cache[blink][stone] = result;
     }
     return result;
   }
