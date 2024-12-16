@@ -25,4 +25,4 @@ function part1(input) {
 // == ASSERTS ==
 
 console.assert(part1("5764801\n17807724") === 14897079);
-console.assert(part1("5764801\n17807724") === 14897079);
+console.assert(part1("17807724\n5764801") === 14897079);
