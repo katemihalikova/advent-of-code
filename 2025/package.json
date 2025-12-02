@@ -1,0 +1,11 @@
+{
+  "name": "2025",
+  "private": true,
+  "type": "module",
+  "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
