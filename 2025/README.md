@@ -5,7 +5,7 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 
 * 01.12. - [instructions](http://adventofcode.com/2025/day/1)
 * 02.12. - [instructions](http://adventofcode.com/2025/day/2)
-* 03.12. - [instructions](http://adventofcode.com/2025/day/3)
+* 03.12. - [instructions](http://adventofcode.com/2025/day/3) + solution [TypeScript](./03.ts)
 * 04.12. - [instructions](http://adventofcode.com/2025/day/4) + solution [TypeScript](./04.ts)
 * 05.12. - [instructions](http://adventofcode.com/2025/day/5) + solution [TypeScript](./05.ts)
 * 06.12. - [instructions](http://adventofcode.com/2025/day/6)
