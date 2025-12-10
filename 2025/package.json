@@ -7,5 +7,8 @@
   "devDependencies": {
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "z3-solver": "^4.15.4"
   }
 }
