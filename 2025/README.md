@@ -14,4 +14,4 @@ Jump to: [2015](../2015), [2016](../2016), [2017](../2017), [2018](../2018), [20
 * 09.12. - [instructions](http://adventofcode.com/2025/day/9) + solution [TypeScript](./09.ts)
 * 10.12. - [instructions](http://adventofcode.com/2025/day/10) + solution [TypeScript](./10.ts)
 * 11.12. - [instructions](http://adventofcode.com/2025/day/11) + solution [TypeScript](./11.ts)
-* 12.12. - [instructions](http://adventofcode.com/2025/day/12)
+* 12.12. - [instructions](http://adventofcode.com/2025/day/12) + solution [TypeScript](./12.ts)
